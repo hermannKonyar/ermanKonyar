@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ermanKonyar&show_icons=true&theme=shades-of-purple)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermanKonyar&langs_count=8&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermanKonyar&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
